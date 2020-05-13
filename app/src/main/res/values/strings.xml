@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">App Tcc Passageiro</string>
+
+    <string name="titulo_tela_cad">Você está quase lá, preencha seus dados...</string>
+    <string name="titulo_tela_log">Seja bem vindo(a) de volta, preencha seus dados...</string>
+    <string name="versoa_app">Versão 1.0.0</string>
+    <string name="titulo_intro_cadlog"> Como pretende fazer parte da nossa família?</string>
+    <string name="titulo_intro1">Olá, seja bem vindo(a) ao nosso App</string>
+    <string name="descricao_intro1">Nele você poderá consultar várias informações sobre os ônibus de sua cidade, facilitando
+    \n seu cotidiano ;)</string>
+    <string name="grant_permissions">Aceitar Permissões</string>
+    <string name="please_grant_permissions">Para prosseguir é necessário conceder á permissão</string>
+    <string name="ultimo_slide_msg">Realize seu cadastro ou login!</string>
+    <string name="title_activity_mapa">Map</string>
+    <string name="title_activity_tela_mapa">TelaMapaActivity</string>
+
+    <string name="title_activity_principal_main">PrincipalMainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Localização</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

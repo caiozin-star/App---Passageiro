@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#43CD80</color>
+    <color name="colorPrimaryDark">#008B00</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="color_background__slider">#43CD80</color>
+    <color name="color_button_slider">#008B00</color>
+    <color name="color_button_cadlog">#128282</color>
+</resources>
